@@ -86,11 +86,11 @@ The dashboard tells the story of a fictional **Superstore**, revealing:
 
 ## 👤 About Me
 
-**Vedika Sankhe**  
-🎓 Aspiring Data Analyst | 📊 Tableau & Power BI Enthusiast | 💡 Turning Numbers into Narratives  
+**Anurag Tiwari**  
+🎓 Aspiring AI/ML Engineer | 📊 Tableau & Power BI Enthusiast | 💡 Turning Numbers into Narratives  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317/)  
-📁 [GitHub Portfolio](https://github.com/VedikaaSankhe)
+🔗 [LinkedIn](www.linkedin.com/in/anurag092)  
+📁 [GitHub Portfolio](iamanurag092.github.io)
 
 ---
 
@@ -101,6 +101,3 @@ Collaboration is welcome!
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
